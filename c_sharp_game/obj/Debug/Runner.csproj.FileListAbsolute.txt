@@ -1,0 +1,15 @@
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\bin\Debug\Runner.exe.config
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\bin\Debug\Runner.exe.manifest
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\bin\Debug\Runner.application
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\bin\Debug\Runner.exe
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\bin\Debug\Runner.pdb
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\obj\Debug\Runner.csprojAssemblyReference.cache
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\obj\Debug\c_sharp_game.Form1.resources
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\obj\Debug\c_sharp_game.Properties.Resources.resources
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\obj\Debug\Runner.csproj.GenerateResource.cache
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\obj\Debug\Runner.TrustInfo.xml
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\obj\Debug\Runner.exe.manifest
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\obj\Debug\Runner.application
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\obj\Debug\Runner.exe
+C:\Users\Назым\Desktop\Новая папка (9)\SourceCode\SourceCode\c_sharp_game\obj\Debug\Runner.pdb
